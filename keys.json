@@ -5,7 +5,8 @@
     "max_devices": 100,
     "devices": [
       "1346ad937feefac4",
-      "c1f6a3f4a41fe9eb"
+      "c1f6a3f4a41fe9eb",
+      "ef87d05b114aad73"
     ],
     "status": "active"
   },
@@ -26,7 +27,7 @@
       "abc123",
       "def456"
     ],
-    "status": "active"
+    "status": "inactive"
   },
   "DEMO-2025": {
     "user": "Demo_User",
