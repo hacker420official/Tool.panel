@@ -4,7 +4,8 @@
     "expiry": "2026-07-07",
     "max_devices": 100,
     "devices": [
-      "1346ad937feefac4"
+      "1346ad937feefac4",
+      "538feb3972e5eb24"
     ],
     "status": "active"
   },
