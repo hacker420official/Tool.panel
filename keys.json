@@ -1,7 +1,7 @@
 {
-  "H420-8FK2-AB91-XYZ7": {
-    "user": "Ali",
-    "expiry": "2026-12-31",
+  "@hacker420official": {
+    "user": "HACKER420_PUBLIC",
+    "expiry": "2026-5-31",
     "max_devices": 2,
     "devices": [
       "device_hash_1"
