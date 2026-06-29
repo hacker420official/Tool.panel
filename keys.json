@@ -27,7 +27,7 @@
       "abc123",
       "def456"
     ],
-    "status": "inactive"
+    "status": "active"
   },
   "DEMO-2025": {
     "user": "Demo_User",
