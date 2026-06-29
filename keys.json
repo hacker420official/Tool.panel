@@ -25,7 +25,8 @@
     "max_devices": 5,
     "devices": [
       "abc123",
-      "def456"
+      "def456",
+      "a681a640aaefca8d"
     ],
     "status": "active"
   },
