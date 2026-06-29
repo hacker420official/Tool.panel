@@ -1,10 +1,10 @@
 {
   "@hacker420official": {
     "user": "HACKER420_PUBLIC",
-    "expiry": "2026-06-06",
+    "expiry": "2026-07-06",
     "max_devices": 100,
     "devices": [
-      "2daefe24fc3c846d"
+      "ee86b83f05745258"
     ],
     "status": "active"
   },
