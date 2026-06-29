@@ -1,11 +1,30 @@
 {
   "@hacker420official": {
     "user": "HACKER420_PUBLIC",
-    "expiry": "2026-7-6",
+    "expiry": "2026-07-06",
     "max_devices": 100,
-    "devices": [
-      "device_hash_1"
-    ],
+    "devices": [],
     "status": "active"
+  },
+  "H420-8FK2-AB91-XYZ7": {
+    "user": "Ali",
+    "expiry": "2026-12-31",
+    "max_devices": 2,
+    "devices": ["device_hash_1"],
+    "status": "inactive"
+  },
+  "PRO-2026-001": {
+    "user": "Premium_User",
+    "expiry": "2027-01-01",
+    "max_devices": 5,
+    "devices": ["abc123", "def456"],
+    "status": "inactive"
+  },
+  "DEMO-2025": {
+    "user": "Demo_User",
+    "expiry": "2025-12-31",
+    "max_devices": 1,
+    "devices": [],
+    "status": "expired"
   }
 }
