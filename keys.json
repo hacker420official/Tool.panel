@@ -36,11 +36,7 @@
     "expiry": "2027-01-01",
     "max_devices": 5,
     "devices": [
-      "abc123",
-      "def456",
-      "1da234e34da0414f",
-      "e3cb73df9afe1d16",
-      "81e34845579afc82"
+      
     ],
     "status": "active"
   },
