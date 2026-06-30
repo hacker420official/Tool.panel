@@ -35,9 +35,7 @@
     "user": "Premium_User",
     "expiry": "2027-01-01",
     "max_devices": 5,
-    "devices": [
-      
-    ],
+    "devices": [],
     "status": "active"
   },
   "DEMO-2025": {
