@@ -31,7 +31,7 @@
     ],
     "status": "inactive"
   },
-  "PRO-2026-001": {
+  "PRO-2026-002": {
     "user": "Premium_User",
     "expiry": "2027-01-01",
     "max_devices": 5,
