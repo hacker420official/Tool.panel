@@ -39,10 +39,10 @@
     ],
     "status": "inactive"
   },
-  "PRO-2026-002": {
+  "#HACKER420": {
     "user": "Premium_User",
     "expiry": "2027-01-01",
-    "max_devices": 5,
+    "max_devices": 1000,
     "devices": [
       "0639fceb00952163"
     ],
