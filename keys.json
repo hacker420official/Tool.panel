@@ -44,7 +44,8 @@
     "expiry": "2027-01-01",
     "max_devices": 1000,
     "devices": [
-      "0639fceb00952163"
+      "0639fceb00952163",
+      "f89888fdea98dccc"
     ],
     "status": "active"
   },
