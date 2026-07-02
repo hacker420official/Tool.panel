@@ -2,31 +2,9 @@
   "@hacker420official": {
     "user": "HACKER420_PUBLIC",
     "expiry": "2026-07-07",
-    "max_devices": 100,
+    "max_devices": 0,
     "devices": [
-      "1346ad937feefac4",
-      "c1f6a3f4a41fe9eb",
-      "ef87d05b114aad73",
-      "4dbc93aa5a5b8266",
-      "d569d2d139c373b8",
-      "e7235a660d522d2d",
-      "b19e3e97cc8298f6",
-      "bf9fa8a82f52d7b3",
-      "4f4a0c0ff9990970",
-      "8a97800a2f1383fd",
-      "a3606241f31c4431",
-      "4d271fc5e556617a",
-      "4c6be1edd5dcb57d",
-      "b6751e4dda97a3ed",
-      "1c16928b4b737b66",
-      "5a54e4078299d7e6",
-      "ce8637490e6be3cf",
-      "a42948bbfa298543",
-      "565a63d7e0fe742c",
-      "906ffec717e012dd",
-      "5fdb6a21505ada32",
-      "0e2302f289a4f143",
-      "d398f950c6221bfd"
+      
     ],
     "status": "active"
   },
