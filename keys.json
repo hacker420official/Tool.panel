@@ -23,7 +23,8 @@
     "max_devices": 1000,
     "devices": [
       "0639fceb00952163",
-      "f89888fdea98dccc"
+      "f89888fdea98dccc",
+      "247e0f0085051095"
     ],
     "status": "active"
   },
