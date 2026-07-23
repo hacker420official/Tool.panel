@@ -52,7 +52,7 @@
   },
   "DEMO-2026": {
     "user": "Demo_User",
-    "expiry": "2026-6-25",
+    "expiry": "2026-7-25",
     "max_devices": 1,
     "devices": [],
     "status": "active"
