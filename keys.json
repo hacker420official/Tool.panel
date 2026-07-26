@@ -51,8 +51,10 @@
 }
 "@ZenXAHMAD": {
     "user": "Premium_User",
-    "expiry": "2027-07-30",
+    "expiry": "2027-01-01",
     "max_devices": 1000,
     "devices": [
       
     ],
+    "status": "active"
+  },
