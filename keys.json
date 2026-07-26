@@ -35,7 +35,7 @@
     "expiry": "2027-01-01",
     "max_devices": 1000,
     "devices": [
-      
+      "2b676d4c7fa4542b"
     ],
     "status": "active"
   },
@@ -49,12 +49,3 @@
     "status": "active"
   }
 }
-"@ZenXAHMAD": {
-    "user": "Premium_User",
-    "expiry": "2027-01-01",
-    "max_devices": 1000,
-    "devices": [
-      
-    ],
-    "status": "active"
-  },
