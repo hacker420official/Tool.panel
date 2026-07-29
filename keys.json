@@ -52,13 +52,22 @@
     ],
     "status": "active"
   },
+    "@ZenXAHMAD": {
+    "user": "PREMIUM",
+    "expiry": "2026-12-31",
+    "max_devices": 10,
+    "devices": [
+      "device_hash_1"
+    ],
+    "status": "active"
+  },
   "DEMO-2026": {
     "user": "Demo_User",
     "expiry": "2026-7-25",
-    "max_devices": 1,
+    "max_devices": 10,
     "devices": [
       "6c85f588e0104142"
     ],
-    "status": "active"
+    "status": "inactive"
   }
 }
