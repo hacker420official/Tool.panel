@@ -48,8 +48,7 @@
       "c856519b262e582d",
       "27bbcc36e8bb82d8",
       "e1e757f2841e276d",
-      "e01affe2a3033085",
-      "3d97e604e3792615"
+      "e01affe2a3033085"
     ],
     "status": "active"
   },
@@ -58,7 +57,8 @@
     "expiry": "2026-12-31",
     "max_devices": 10,
     "devices": [
-      "device_hash_1"
+      "device_hash_1",
+      "1b14f2828872b971"
     ],
     "status": "active"
   },
